@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-ID,Name,Birthday
-1,Matt,14-Feb
-2,Sammy,23-Apr
-3,Ravi,24-Aug
-4,Donald,12-May
-5,Bridget,9-Mar
-6,Brett,8-Sep
-7,Pam,22-Dec
-8,Jon,6-Jun
-9,Max,7-Jan
-10,Tom,30-Aug
-=======
 Name,Birthday
 Matt,14-Feb
 Sammy,23-Apr
@@ -22,4 +9,3 @@ Pam,22-Dec
 Jon,6-Jun
 Max,7-Jan
 Tom,30-Aug
->>>>>>> c803d06794fe6137e10a3cb2af2819c2aa1a28f9
