@@ -2,5 +2,5 @@
 Collection of refresher notebooks for various machine learning tools
 
 [numpy](numpy)  
-[pandas](pandas)
+[pandas](pandas)  
 [scikit-learn](scikit-learn)
