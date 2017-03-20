@@ -7,6 +7,7 @@ Collection of refresher notebooks for various machine learning tools
 <br><br> 
 [![Image Alt Text](images/scikit-learn.png)](scikit-learn)  
 <br><br> 
+----------------------------------------------------------------------------------------------------------
 [![Image Alt Text](images/Matplotlib.png)](matplotlib)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Matplotlib.</b>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-------------.<b>Pyplot.</b>  
