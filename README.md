@@ -1,6 +1,5 @@
 # Jupyter-Notebooks  
 Collection of Jupyter Notebooks for various Python, Machine Learning, and Deep Learning Topics  
-
 -------------------------------------------------------------------------------------------
 [![Image Alt Text](images/NumPy.png)](numpy)  
 -------------------------------------------------------------------------------------------  
