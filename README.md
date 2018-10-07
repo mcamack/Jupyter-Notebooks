@@ -4,9 +4,12 @@ Collection of Jupyter Notebooks for various Python, Machine Learning, and Deep L
 <img src="images/Keras.png" width="200"/>  
 
 * [keras100-Overview.ipynb](keras/keras100-Overview.ipynb)
+* [keras101-LinearModel.ipynb](keras/keras101-LinearModel.ipynb)
+* [keras110-TrainingBasics.ipynb](keras/keras110-TrainingBasics.ipynb)
 * [keras200-CNN.ipynb](keras/keras200-CNN.ipynb)
 * [keras202-VGG16FineTuning.ipynb](keras/keras202-VGG16FineTuning.ipynb)
 * [keras300-RNN.ipynb](keras/keras300-RNN.ipynb)
+* [Natural-Language-Processing.ipynb](keras/Natural-Language-Processing.ipynb)
 
 -------------------------------------------------------------------------------------------  
 <img src="images/TensorFlow.png" width="150"/>
